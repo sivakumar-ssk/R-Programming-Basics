@@ -1,0 +1,52 @@
+Data Science and API with R
+
+Module 1 – Introduction to Data Science
+Introduction to Data Science
+Data Analysis Case study
+What is Data Science?
+Who is a Data Scientist?
+Data Science skill set
+Data Science job roles
+Data Life cycle
+Module 2 - Statistics and Probability
+Statistics and Probability
+Categories of Data
+Qualitative Data
+Quantitative Data
+What is statistics?
+Basic Terminologies in statistics
+Sampling techniques
+Random sampling
+Stratified sampling
+Types of statistics
+Confusion matrix
+Probability
+Types of events
+Probability distribution
+Probability density function
+Normal Distribution
+Standard Deviation and Curve
+Central limit theorem
+Types of Probability: Marginal probability, Joint probability, Conditional probability
+Use Case
+Bayes Theorem
+Inferential statistics
+Module 3 – Concepts of core Data Science 
+Analyzing Data
+Data Wrangling
+Train and Test Data
+Decision trees
+Decision tree terminologies
+What is classification?
+Types of classification
+Random Forest
+Naïve Bayes
+KNN
+Support Vector Machine
+Module 4 – Web Scraping
+Web Scraping with R
+Module 5 – Creating API
+Create your own API in R
+Module 6 – Advance Interactive Dashboards 
+Creating Interactive Dashboards in R
+
